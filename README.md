@@ -7,7 +7,7 @@ Welcome to the [Advent of Code 2024](https://adventofcode.com)! This repository 
 | Day | Programming Language | Completed |
 | --- | -------------------- | --------- |
 | 1   | C                    | ✅         |
-| 2   |                      |           |
+| 2   | Swift                | ~          |
 | 3   |                      |           |
 | 4   |                      |           |
 | 5   |                      |           |
