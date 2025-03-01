@@ -4,7 +4,8 @@ Welcome to the [Advent of Code 2024](https://adventofcode.com)! This repository 
 
 ## 🎄 Daily Progress 🎄
 
-# I FAILED!
+> *"I FAILED!"* \
+> *- @[Fredneyy](https://github.com/Fredneyy), 2025*
 
 | Day | Programming Language | Completed |
 | --- | -------------------- | --------- |
